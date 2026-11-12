@@ -48,7 +48,7 @@ zip の中身:
 
 ## クレジット
 
-- 作者: heichan
+- 作者: 九条へいし
 - フリースタイル建築の家の形: データパック k-TAV（Copyright (c) 2023 - 2026 kogtyv・MIT ライセンス）の建物を書き出したものです。
 - パチンコ・スロットの声: VOICEVOX:麒ヶ島宗麟、VOICEVOX:四国めたん、VOICEVOX:冥鳴ひまり、VOICEVOX:ずんだもん
 - 画面の字: Shippori Mincho B1（Copyright 2021 The Shippori Mincho Project Authors・SIL Open Font License 1.1）
