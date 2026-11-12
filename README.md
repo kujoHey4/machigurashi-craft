@@ -20,9 +20,10 @@ zip の中身:
 
 ## 入れ方
 
-1. Fabric Loader 0.20.1 以上と、Fabric API（0.165.0+26.3 で確認）を入れます。
-2. zip を開いて、中の jar を `mods` フォルダに入れます。
-3. Minecraft 26.3 の Fabric で起動して、新しいワールドを作ります。
+1. **Fabric を入れる**: <https://fabricmc.net/use/installer/> から「Fabric Installer」をダウンロードして開きます。「クライアント」のまま、Minecraft のバージョンを 26.3、ローダーのバージョンを 0.20.1 以上にして、「インストール」を押します。ランチャーに「fabric-loader-26.3」という起動構成ができます。
+2. **Fabric API を入れる**: <https://modrinth.com/mod/fabric-api/versions> から、26.3 用の Fabric API（0.165.0+26.3 で確認）をダウンロードして、`mods` フォルダに入れます。`mods` フォルダの場所（Windows）は `%appdata%\.minecraft\mods` です（なければ作ります）。
+3. **この MOD を入れる**: zip を開いて、中の jar を、同じ `mods` フォルダに入れます。
+4. **起動する**: ランチャーで「fabric-loader-26.3」を選んで起動し、新しいワールドを作ります。
 
 サーバーで遊ぶときは、サーバーとみんなの両方に、同じ jar を入れてください。
 
