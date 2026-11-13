@@ -7,13 +7,13 @@ A Japanese-language Fabric mod for a cozy, slow-life town. All in-game text is i
 
 ## ダウンロード
 
-**[machigurashi-craft-1.0.0.zip をダウンロード](https://github.com/kujoHey4/machigurashi-craft/releases/latest)**
+**[いちばん新しい版（machigurashi-craft.zip）をダウンロード](https://github.com/kujoHey4/machigurashi-craft/releases/latest/download/machigurashi-craft.zip)**　（いまの版: 1.0.1）
 
 zip の中身:
 
 | ファイル | 中身 |
 |---|---|
-| `cozyfurniture-1.0.0.jar` | 本体（かならず入れます。約 210MB） |
+| `cozyfurniture-1.0.1.jar` | 本体（かならず入れます。約 210MB） |
 | `machikura_ext-1.0.0.jar` | 拡張パック（入れても入れなくてもよい。約 37MB）。17 テーマの家具・壁紙・床・家の外観 |
 | `machikura_pachinko-1.0.0.jar` | パチンコ追加パック（入れても入れなくてもよい。約 27MB）。パチンコ台の機種を 2 つ足します |
 | `よんでね.txt` | 入れ方と注意 |
@@ -26,6 +26,11 @@ zip の中身:
 4. **起動する**: ランチャーで「fabric-loader-26.3」を選んで起動し、新しいワールドを作ります。
 
 サーバーで遊ぶときは、サーバーとみんなの両方に、同じ jar を入れてください。
+
+## 前の版から入れかえるとき
+
+1. `mods` フォルダの古い `cozyfurniture-〜.jar` を消して、新しい jar を入れます。
+2. `config` フォルダの中の `cozyfurniture` フォルダを消してから起動します（消さないと、新しいお店の品や売値が出ません。街や持ち物は消えません）。
 
 ## 注意
 
