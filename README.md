@@ -7,14 +7,14 @@ A Japanese-language Fabric mod for a cozy, slow-life town. All in-game text is i
 
 ## ダウンロード
 
-**[いちばん新しい版（machigurashi-craft.zip）をダウンロード](https://github.com/kujoHey4/machigurashi-craft/releases/latest/download/machigurashi-craft.zip)**　（いまの版: 1.0.1）
+**[いちばん新しい版（machigurashi-craft.zip）をダウンロード](https://github.com/kujoHey4/machigurashi-craft/releases/latest/download/machigurashi-craft.zip)**　（いまの版: 1.0.2）
 
 zip の中身:
 
 | ファイル | 中身 |
 |---|---|
 | `cozyfurniture-1.0.1.jar` | 本体（かならず入れます。約 210MB） |
-| `machikura_ext-1.0.0.jar` | 拡張パック（入れても入れなくてもよい。約 37MB）。17 テーマの家具・壁紙・床・家の外観 |
+| `machikura_ext-1.0.0.jar` | 拡張パック（入れても入れなくてもよい。約 14MB）。17 テーマの家具・壁紙・床・家の外観。1.0.2 で絵を軽くし、一部 PC で真っ黒になる不具合を直しました |
 | `machikura_pachinko-1.0.0.jar` | パチンコ追加パック（入れても入れなくてもよい。約 27MB）。パチンコ台の機種を 2 つ足します |
 | `よんでね.txt` | 入れ方と注意 |
 
